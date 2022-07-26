@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameSuitAndroid</string>
+    <string name="txt_vs">txt</string>
+    <string name="txt_p1win">txtp1</string>
+    <string name="txt_p2win">txtp2</string>
+    <string name="txt_draw">txtdraw</string>
+</resources>
